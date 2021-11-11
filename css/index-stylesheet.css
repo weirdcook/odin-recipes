@@ -1,0 +1,21 @@
+.header,.list {
+    font-family: "EB Garamond", serif;
+}
+
+.header {
+    font-size: 40px;
+    color: #cc9543;
+}
+
+.list{
+    font-size:20px;
+}
+
+h2 {
+    color: rgba(74,74,74,0.7);
+    font-size: 28px;
+}
+
+body {
+    text-align: center;
+}
